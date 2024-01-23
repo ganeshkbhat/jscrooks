@@ -1,0 +1,18 @@
+{
+  "name": "jscrooks",
+  "version": "1.0.0",
+  "description": "jscrooks - the bad parts of javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bad parts of javascript",
+    "funny javascript",
+    "messy javascript",
+    "only javascript",
+    "the crooky pary of javascript"
+  ],
+  "author": "ganeshsurfs@gmail.com",
+  "license": "MIT"
+}
